@@ -7,11 +7,11 @@
 
 Book Management System is the final project of my Internet Engineering course at Alzahra University. Another student and I used Spring Boot and MVC architecture in Java to develop this project.
 
-The project contains three main madules: Authentication, Save Book Data, and Search.
+The project contains three main modules: Authentication, Save Book Data, and Search.
 
 ### Authentication
 
-In this module, storing book information, publichser access and save methods, edit and delete books alongside adding comment by user has been handled.
+In this module, storing book information, publisher access and save methods, editing and deleting books alongside adding comments by a user has been handled.
 
 Here is the main page:
 
@@ -50,7 +50,7 @@ Here is an output of displying all users:
 ![46](https://user-images.githubusercontent.com/120925422/210315214-7d226dad-da4d-487d-8796-8fc923f785ce.PNG)
 
 ### Save Book Data
- This module contains all the nessecery action for saving books and comments and has two controller class, BookController and CommentController.
+ This module contains all the necessary actions for saving books and comments and has two controller classes, BookController and CommentController.
  
  Here is how we can add a book:
  
@@ -82,7 +82,7 @@ Here is how to edit a comment:
 
 ### Search 
 
-In this module, we can search books based on their publish year and keyword, and also we can filter books. SearchController is our controller class in this module.
+In this module, we can search books based on their publication year and keyword, and also we can filter books. SearchController is our controller class in this module.
 
 Here is how to serch based on publichsed year:
 
